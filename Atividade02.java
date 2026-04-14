@@ -14,7 +14,7 @@ public class Atividade02 {
             System.out.print("Senha: ");
             senha = sc.nextLine();
 
-            if (usuario.equals(senha)) {
+            if (usuario.equals                                                                           (senha)) {
                 System.out.println("Erro: senha não pode ser igual ao usuário!");
             }
 
